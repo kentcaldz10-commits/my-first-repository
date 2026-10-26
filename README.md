@@ -15,3 +15,11 @@ README.md
 -Git tracks changes to files. 
 -GitHub hosts repositories online. 
 -Commits record changes in the project history. 
+
+## My Computing Goals
+- Learn how to write clean code
+- Understand version control with Git and GitHub
+- Build functional applications and games
+
+## My Favorite Technology
+Python is my favorite technology because it has a clean and readable syntax that makes learning programming concepts much easier and faster.
